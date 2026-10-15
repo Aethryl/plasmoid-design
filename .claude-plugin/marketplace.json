@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "plasmoid-design",
+  "owner": { "name": "Aethryl" },
+  "metadata": {
+    "description": "KDE Plasma 6 widget and Kirigami UI design skill",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "plasmoid-design",
+      "description": "Design and review rules for KDE Plasma 6 widgets and Kirigami/QML app windows.",
+      "source": "./",
+      "version": "0.1.0",
+      "author": { "name": "Aethryl" },
+      "license": "MIT",
+      "category": "development",
+      "keywords": ["kde", "plasma", "plasmoid", "kirigami", "qml"]
+    }
+  ]
+}

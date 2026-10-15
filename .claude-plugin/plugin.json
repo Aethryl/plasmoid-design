@@ -1,0 +1,9 @@
+{
+  "name": "plasmoid-design",
+  "description": "Design and review rules for KDE Plasma 6 widgets and Kirigami/QML app windows: sizing, scaling, spacing, layout and KDE HIG patterns.",
+  "version": "0.1.0",
+  "author": { "name": "Aethryl" },
+  "license": "MIT",
+  "repository": "https://github.com/Aethryl/plasmoid-design",
+  "keywords": ["kde", "plasma", "plasmoid", "kirigami", "qml", "hig", "ui"]
+}

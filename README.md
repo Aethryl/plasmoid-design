@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset=".github/logo-dark.svg">
+  <img src=".github/logo-light.svg" width="64" height="64" alt="rice">
+</picture>
+
 # plasmoid-design
 
 A Claude Code skill for building and reviewing KDE Plasma 6 widgets (plasmoids) and Kirigami/QML app windows. It covers sizing in grid units, spacing, icon sizes, Qt Quick Layouts rules, responsive windows, popup sizing, theme colours, and a review checklist, all based on the KDE HIG, the Kirigami and Plasma docs, and Qt's layout documentation.
